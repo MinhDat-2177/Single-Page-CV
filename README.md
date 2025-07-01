@@ -9,10 +9,6 @@ Một trang CV đơn giản viết bằng **HTML** – tuân thủ **semantic st
 - [Giới thiệu](#giới-thiệu)  
 - [Yêu cầu](#yêu-cầu)  
 - [Cách chạy dự án](#cách-chạy-dự-án)  
-- [Cấu trúc thư mục](#cấu-trúc-thư-mục)  
-- [Liên kết dự án](#liên-kết-dự-án)  
-- [Góp ý](#góp-ý)  
-- [Giấy phép](#giấy-phép)
 
 ---
 
